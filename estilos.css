@@ -1,0 +1,42 @@
+:root {
+    --dark: #5cf0a6;
+    --dark-x: #e75e5e;
+    --light: #ffffff;
+}
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    color: var(--light);
+}
+
+.form-control,
+.btn {
+    min-height: 3.125rem;
+    line-height: initial;
+}
+
+.img-1 {
+    background-image: url('img1.jpg');
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.img-2 {
+    background-image: url('img2.jpg');
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.img-3 {
+    background-image: url('img3.jpg');
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-image: url(https://images8.alphacoders.com/706/thumb-1920-706540.jpg);
+}
