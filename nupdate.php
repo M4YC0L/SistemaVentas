@@ -1,8 +1,8 @@
 <?php
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "";
-$dbname = "Tienda";
+$dbhost = "sql300.epizy.com";
+$dbuser = "epiz_29339594";
+$dbpass = "KMF07U0PmAJ";
+$dbname = "epiz_29339594_tienda";
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
 $er = $_GET['er'];
